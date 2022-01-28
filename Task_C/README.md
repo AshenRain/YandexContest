@@ -1,9 +1,9 @@
 
 
 ![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Task_C/1.jpg)
-![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Task_C/2.png)
-![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Task_C/3.png)
-![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Task_C/4.png)
+![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Task_C/2.jpg)
+![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Task_C/3.jpg)
+![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Task_C/4.jpg)
 
 
 Пример 1:
