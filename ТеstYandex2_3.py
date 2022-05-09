@@ -13,7 +13,7 @@ def generation(q, depth, num = ''):
             if num[j] == num[j-1]: 
                 num.pop(j) #удаление повторящющихся эл-ов
         for j in num:
-            sum += int(j) #сумирование оствашихся цифр для мат. ожид.
+            sum += int(j) #суммирование оставшихся цифр для мат. ожид.
         if sum not in m:
             for j in range(k): 
                p*= prob[num_tmp[j]] #рассчет вероятностей события 
