@@ -1,10 +1,4 @@
 import copy
-'''
-a = input().split()
-k = int(input())
-c = set(a) #уникальные стороны кубика
-'''
-
 
 def generation(q, depth, num = ''):
     if depth != 0:
@@ -26,12 +20,11 @@ def generation(q, depth, num = ''):
             m[sum] = [p] #общая вероятность для данной суммы
             m[sum].append(p) #вероятность для одного такого выпадения
         else:
-             m[sum][0] += m[sum][1] # сделано, чтобы повторно не рассчитывать вероятность для той же суммы
+             m[sum][0] += m[sum][1] 
 
-k = 2
-c = ['1','2','3','4','5','6']
-a = ['1','2','3','4','5','6']
-
+a = input().split()
+k = int(input())
+c = set(a) #уникальные стороны кубика
 m = dict()
 prob = dict() #вероятности сторон кубика
 for i in a: prob[i] = prob.get(i,0) + 1/6
