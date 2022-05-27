@@ -31,4 +31,4 @@ x_val = np.array(x_val)
 x_pol = poly_reg.fit_transform(x_val)
 
 for i in range(1000):
-    print(''.join(map(str,lin_reg.predict([x_pol[i]]))))
+    print('{:.6f}'.format(lin_reg.predict([x_pol[i]])[0]))
