@@ -31,7 +31,7 @@ fin.close
 x,y = input_points_train(text_line[:1000])
 x,y = np.array(x), np.array(y)
 lin_reg = LinearRegression()
-poly_reg = PolynomialFeatures(degree=5)
+poly_reg = PolynomialFeatures(degree=3)
 poly_x = poly_reg.fit_transform(x)
 lin_reg.fit(poly_x,y)
 
