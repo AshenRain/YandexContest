@@ -1,6 +1,8 @@
 
 ![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Another/ML Internship 2021: Fall-Winter/Task_D/1.jpg)
+
 ![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Another/ML Internship 2021: Fall-Winter/Task_D/2.jpg)
+
 ![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Another/ML Internship 2021: Fall-Winter/Task_D/3.jpg)
 
 
