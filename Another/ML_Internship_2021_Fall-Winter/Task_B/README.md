@@ -1,7 +1,6 @@
 
 ![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Another/ML_Internship_2021_Fall-Winter/Task_B/1.jpg)
 ![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Another/ML_Internship_2021_Fall-Winter/Task_B/2.jpg)
-![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Another/ML_Internship_2021_Fall-Winter/Task_B/3.jpg)
 
 
 Код:
