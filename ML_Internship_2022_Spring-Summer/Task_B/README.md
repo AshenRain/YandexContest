@@ -1,6 +1,6 @@
-![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Another/ML_Internship_2022_Spring-Summer/Task_B/1.jpg)
-![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Another/ML_Internship_2022_Spring-Summer/Task_B/2.jpg)
-![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Another/ML_Internship_2022_Spring-Summer/Task_B/3.jpg)
+![Image alt](https://github.com/AshenRain/YandexContest/raw/main/ML_Internship_2022_Spring-Summer/Task_B/1.jpg)
+![Image alt](https://github.com/AshenRain/YandexContest/raw/main/ML_Internship_2022_Spring-Summer/Task_B/2.jpg)
+![Image alt](https://github.com/AshenRain/YandexContest/raw/main/ML_Internship_2022_Spring-Summer/Task_B/3.jpg)
 
 Код:
 
