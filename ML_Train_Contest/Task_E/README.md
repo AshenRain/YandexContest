@@ -1,7 +1,7 @@
 
 
-![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Task_E/1.jpg)
-![Image alt](https://github.com/AshenRain/YandexContest/raw/main/Task_E/2.jpg)
+![Image alt](https://github.com/AshenRain/YandexContest/raw/main/ML_Train_Contest/Task_E/1.jpg)
+![Image alt](https://github.com/AshenRain/YandexContest/raw/main/ML_Train_Contest/Task_E/2.jpg)
 
 
 Код:
