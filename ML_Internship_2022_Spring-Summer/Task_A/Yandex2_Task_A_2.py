@@ -7,7 +7,7 @@ def zaraza(meetings, meet_zaraza, pcr, arhcive):
             index = archive[worker].index(meet_zaraza) #таким образом, мы знаем с какой встречи он заразился
             for meet in archive[worker][index:]:
                 if meetings[meet][0] == 0:
-                    meetings[meet][0] = 1 #нужно ли это, так как потом из за этого повторно будет проходить
+                    meetings[meet][0] = 1 
                     zaraza(meetings, meet, pcr, arhcive)
 
 fin = open('input.txt', 'r', encoding='utf8')
