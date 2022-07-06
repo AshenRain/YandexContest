@@ -4,8 +4,6 @@
 Код:
 
 ```
-from collections import defaultdict
-
 def zaraza(meetings, meet_zaraza, pcr, arhcive):
     for worker in meetings[meet_zaraza][1:]:
         if pcr[worker] == 0:
@@ -52,6 +50,7 @@ for meet in meetings.keys():
         
 print(*pcr)
 
+
 ```
 
 Пример 1:
@@ -67,5 +66,22 @@ print(*pcr)
 
 Вывод:
 1 1 0 1 
+
+```
+
+Пример 2:
+
+```
+Ввод:
+4
+0 0 1 0
+3 1 2 3
+0
+1 3
+1 1
+
+
+Вывод:
+1 0 1 0
 
 ```
