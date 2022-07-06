@@ -6,7 +6,7 @@ def zaraza(meetings, meet_zaraza, pcr, arhcive):
             pcr[worker] = 1
             index = archive[worker].index(meet_zaraza) #таким образом, мы знаем с какой встречи он заразился
             for meet in archive[worker][index:]:
-                if meetings[meet][0] == 0:
+                if meetings[meet][0] == 0: #чтобы повторно не ходил, по уже пройденным встречам
                     meetings[meet][0] = 1 
                     zaraza(meetings, meet, pcr, arhcive)
 
