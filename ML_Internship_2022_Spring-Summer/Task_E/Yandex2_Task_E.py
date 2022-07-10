@@ -23,18 +23,12 @@ for line in text_line[1:]:
 
 
 x,y = np.array(train_x), np.array(train_y)
-#x,y = train_x, train_y
-lin_reg = LinearRegression()
-#poly_reg = PolynomialFeatures(degree=2)
-#poly_reg = SplineTransformer(degree = 1, n_knots = 4, knots = 'quantile')
-#poly_x = poly_reg.fit_transform(x)
-#print(poly_x)
+lin_reg = LinearRegression(fit_intercept = False)
 lin_reg.fit(x,y)
-print('score ',lin_reg.score(x,y))
-print(lin_reg.coef_)
-print(len(lin_reg.coef_[0]))
+#print('score ',lin_reg.score(x,y))
+#print(lin_reg.coef_)
+#print(len(lin_reg.coef_[0]))
+coef = [lin_reg.coef_[0][0], (lin_reg.coef_[0][1])**0.5, (lin_reg.coef_[0][3])**0.5, lin_reg.coef_[0][4]]
 
-
-
-for i in lin_reg.coef_[0]:
-    print("{:2f}".format(i), end = ' ')
+for i in coef:
+    print("{:.2f}".format(i), end = ' ')
