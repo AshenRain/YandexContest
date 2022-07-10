@@ -7,10 +7,6 @@
 import numpy as np
 from math import tan, sin, cos
 from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import PolynomialFeatures
-
-#from sklearn.preprocessing import SplineTransformer
-
 
 fin = open('input.txt', 'r', encoding='utf8')
 text_line = []
