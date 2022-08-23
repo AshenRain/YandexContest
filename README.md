@@ -8,7 +8,7 @@
 
 ![Image alt](https://github.com/AshenRain/YandexContest/raw/main//1.jpg)
 
--ML_Internship_2022_Spring-Summer 3/6 (A,B,E)
+-ML_Internship_2022_Spring-Summer 4/6 (A,B,C,E)
 
 ![Image alt](https://github.com/AshenRain/YandexContest/raw/main//2.jpg)
 
