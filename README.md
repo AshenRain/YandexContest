@@ -12,3 +12,4 @@
 
 ![Image alt](https://github.com/AshenRain/YandexContest/raw/main//2.jpg)
 
+-ML_Internship_Day_2022_Summer (TL on 66 test)
